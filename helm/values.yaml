@@ -1,6 +1,6 @@
 #deployment.yaml
 #namespace: devops
-replicaCount: 2
+replicaCount: 3
 image:
   repository: 236032563086.dkr.ecr.ap-south-1.amazonaws.com/my_pvt_repo
   tag: latest
