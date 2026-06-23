@@ -9,7 +9,7 @@ spec:
   ingressClassName: nginx
 
   rules:
-    - host: your-domain.com
+    - host: a117cc8f2c3fc42f8857152efbef96d5-2060938365.ap-south-1.elb.amazonaws.com
       http:
         paths:
           - path: /
